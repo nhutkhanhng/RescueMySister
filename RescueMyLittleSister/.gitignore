@@ -1,0 +1,7 @@
+/.vs/
+/Library/
+/obj/
+/Temp/
+*.log
+*.csproj
+ProjectVersion.txt
